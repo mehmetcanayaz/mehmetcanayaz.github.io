@@ -32,25 +32,20 @@ education:
 
 # Profile
 profile: |
-  I am an Assistant Professor of Finance at Smeal College of Business, Pennsylvania State University.  |
-  I conduct empirical research on Economics of Privacy, Alexa Skills, Counterfeit Products, Branding, and Law and Finance. |
-  My work has been published at academic journals such as Journal of Financial and Quantitative Analysis and presented at conferences such as the NBER, AFA, MFA, ALEA, and AAA.  
+  I am an Assistant Professor of Finance at Smeal College of Business, Pennsylvania State University.   
+  I conduct empirical research on Economics of Privacy, Conversational-AI, Counterfeit Products, Branding, and Law and Finance.  
+  My work has been published at academic journals such as Journal of Financial and Quantitative Analysis, and presented at conferences such as the NBER, AFA, MFA, ALEA, and AAA.  
 
 
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Assistant Professor of Finance
+    time: 2017-Present
+    company: Pennsylvania State University
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      Present findings at top conferences and institutions around the globe, referee for academic journals and the National Science Foundation, referee for and chair sessions at leading conferences, help hire and advise PhD researchers.
+
   
   - role: Researcher
     time: 2016-2020
