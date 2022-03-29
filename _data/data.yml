@@ -20,7 +20,11 @@ education:
     time: 2008-2010
     university: New York University
     
-  - degree: BA in Mathematics and Economics
+  - degree: BA in Mathematics
+    time: 2005-2008
+    university: New York University
+     
+  - degree: BA in Economics
     time: 2005-2008
     university: New York University
 
