@@ -47,17 +47,6 @@ experience:
       Present findings at top conferences and institutions around the globe, referee for academic journals and the National Science Foundation, referee for and chair sessions at leading conferences, help hire and advise PhD researchers.
 
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
