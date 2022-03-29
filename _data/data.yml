@@ -1,4 +1,4 @@
-name: Mehmet Canayaz
+name: Mehmet Canayaz GitHub Repository
 support_dark_mode: true
 fork: true
 
@@ -32,50 +32,15 @@ education:
 
 # Profile
 profile: |
-  I am an Assistant Professor of Finance at Smeal College of Business, Pennsylvania State University.   
+  Welcome to my GitHub Repository! I am an Assistant Professor of Finance at Smeal College of Business, Pennsylvania State University.   
   I conduct empirical research on Economics of Privacy, Conversational-AI, Counterfeit Products, Branding, and Law and Finance.  
-  My work has been published at academic journals such as Journal of Financial and Quantitative Analysis, and presented at conferences such as the NBER, AFA, MFA, ALEA, and AAA.  
+  My work has been published at academic journals such as Journal of Financial and Quantitative Analysis, and presented at conferences such as the NBER, AFA, MFA, ALEA, and AAA. 
+  This page hosts code and data from my research projects. All items are licensed under the MIT License.
 
 
-
-# Experience
-experience:
-  - role: Assistant Professor of Finance
-    time: 2017-Present
-    company: Pennsylvania State University
-    details: |
-      Present findings at top conferences and institutions around the globe, referee for academic journals and the National Science Foundation, referee for and chair sessions at leading conferences, help hire and advise PhD researchers.
-
-  - role: Research Fellow
-    time: 2016-2020
-    company: Oxford University Centre for Corporate Reputation
-    details: |
-      Lead a research project on how brand image and marketing impact business performance and stock returns. Used a global survey on brands to study how consumers’ trust for firms affects marketing and financial performance
-
-  
 publications:
-  - title: Real Effects of Fake Products  
+  - title: Conversational AI Firms
     link: "#"
     authors: Mehmet Canayaz, Umit Gurun
     conference:  Journal of Financial and Quantitative Analysis, Forthcoming
 
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
