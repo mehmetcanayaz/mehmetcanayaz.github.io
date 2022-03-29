@@ -1,15 +1,15 @@
-name: John Doe
+name: Mehmet Canayaz
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: mehmet@canayaz.net
+  github: mehmetcanayaz
+  linkedin: micanayaz
+  phone: 814-863-3714
   gitlab: 
-  twitter: 
+  twitter: micanayaz
 
 languages:
   - idiom: English
@@ -17,13 +17,17 @@ languages:
   - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: PhD in Financial Economics
+    time: 2012-2017
+    university: University of Oxford
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: MA in Economics
+    time: 2008-2010
+    university: New York University
+    
+  - degree: BA in Mathematics and Economics
+    time: 2005-2008
+    university: New York University
 
 skills:
   - category: Backend
@@ -41,12 +45,9 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
-
+  Assistant Professor of Finance
+  Smeal College of Business
+  Pennsylvania State University
 # Experience
 experience:
   - role: Software Engineer
@@ -72,7 +73,6 @@ experience:
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
-
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
@@ -90,13 +90,11 @@ projects:
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
-
   - title: Cool Project 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
-
 # Volunteering
 volunteering:
   - time: 2020-Present
