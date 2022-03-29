@@ -29,18 +29,11 @@ education:
     university: New York University
 
 skills:
-  - category: Backend
+  - category: Conversational AI
     skill: 
       - Go
       - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+
 
 # Profile
 profile: |
