@@ -40,7 +40,7 @@ profile: |
 
 publications:
   - title: Conversational AI Firms
-    link: "#"
-    authors: Mehmet Canayaz, Umit Gurun
-    conference:  Journal of Financial and Quantitative Analysis, Forthcoming
+    link: "https://mehmetcanayaz.github.io/conversational-ai"
+    authors: Mehmet Canayaz
+    conference:   
 
