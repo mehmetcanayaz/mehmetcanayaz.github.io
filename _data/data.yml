@@ -28,18 +28,16 @@ education:
     time: 2005-2008
     university: New York University
 
-github:
-  - category: Conversational AI
-    skill: 
-      - Go
-      - Rust
 
 
 # Profile
 profile: |
-  Assistant Professor of Finance
-  Smeal College of Business
-  Pennsylvania State University
+  I am an Assistant Professor of Finance at Smeal College of Business, Pennsylvania State University.  |
+  I conduct empirical research on Economics of Privacy, Alexa Skills, Counterfeit Products, Branding, and Law and Finance. |
+  My work has been published at academic journals such as Journal of Financial and Quantitative Analysis and presented at conferences such as the NBER, AFA, MFA, ALEA, and AAA.  
+
+
+
 # Experience
 experience:
   - role: Software Engineer
