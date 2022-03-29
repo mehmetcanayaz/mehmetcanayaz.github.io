@@ -24,5 +24,10 @@ publications:
   - title: Conversational AI Firms
     link: "https://mehmetcanayaz.github.io/conversational-ai"
     authors: Mehmet Canayaz
-    conference:   
+    conference:  This project presents details on Amazon Skills around the globe. Code and data are shared.
+    
+  - title: AI Gap
+    link: "https://mehmetcanayaz.github.io/ai-gap"
+    authors: Mehmet Canayaz
+    conference:  This project analyzes entrepreneurs' entry decisions into Amazon's voice assistant market around the globe. Code and data are shared.
 
