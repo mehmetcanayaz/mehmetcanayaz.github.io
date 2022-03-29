@@ -28,7 +28,7 @@ education:
     time: 2005-2008
     university: New York University
 
-skills:
+github:
   - category: Conversational AI
     skill: 
       - Go
