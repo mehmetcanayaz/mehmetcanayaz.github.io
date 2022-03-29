@@ -11,11 +11,6 @@ contact:
   gitlab: 
   twitter: micanayaz
 
-languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
-
 education:
   - degree: PhD in Financial Economics
     time: 2012-2017
@@ -25,82 +20,71 @@ education:
     time: 2008-2010
     university: New York University
     
-  - degree: BA in Mathematics and Economics
+  - degree: BA in Mathematics
+    time: 2005-2008
+    university: New York University
+    
+ - degree: BA in Economics
     time: 2005-2008
     university: New York University
 
-skills:
-  - category: Backend
+Data/Programs:
+  - category: Conversational AI
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Github Repo
+  - category: AI Gap
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Github Repo
+ 
 
 # Profile
 profile: |
-  Assistant Professor of Finance
-  Smeal College of Business
-  Pennsylvania State University
+  I am an Assistant Professor of Finance at Smeal College of Business, Pennsylvania State University. I conduct empirical research on Economics of Privacy, Alexa Skills, Counterfeit Products, Branding, and Law and Finance. My work has been published at academic journals such as Journal of Financial and Quantitative Analysis and presented at conferences such as the NBER, AFA, MFA, ALEA, and AAA.  
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Assistant Professor of Finance
+    time: 2017-Present
+    company: Pennsylvania State University
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      Present findings at top conferences and institutions around the globe, referee for academic journals and the National Science Foundation, referee for and chair sessions at leading conferences, help hire and advise PhD researchers.
+
   
-  - role: Researcher
+  - role: Research Fellow
     time: 2016-2020
-    company: Microsoft
+    company: Oxford University Centre for Corporate Reputation
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Lead a research project on how brand image and marketing impact business performance and stock returns | 
+      Used a global survey on brands to study how consumers’ trust for firms affects marketing and financial performance
+
+  - role: Associate Editor
+    time: 2010-2013
+    company: Emerging Markets Corporate Governance Network, IFC
+    details: |
+      Interviewed thought leaders in Finance about their work on financial inclusiveness, culture, trust, and democratization |
+      Provided insights and commentary based on latest research papers, created content for IFC’s research bulletin and blog
+
+
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Real Effects of Fake Products  
+    link: #
+    authors: Mehmet Canayaz, Umit Gurun
+    journal: Journal of Financial and Quantitative Analysis, Forthcoming
+    details: |
+      Examined the effects of U.S. Trade Representative’s anti-counterfeiting enforcements on economic activity in the U.S. 
+      Used a difference-in-differences specification to show that U.S. government interventions in foreign countries improve brand image, profit margin, market penetration, customer loyalty and marketing effectiveness of U.S. businesses
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
+papers at the revision stage:
+  - title: Country Reputation and Business Outcomes 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-  - title: Cool Project 
+      Showed that unprecedented deteriorations in a country’s brand image can distort its multinational firms’ profit margins by up to 2% and valuations by up to 4% |
+      Received a research grant of $40,000, surveyed promotion offices of eleven countries, publicized work in print media 
+
+  - title: Choose Your Battles Wisely: The Consequences of Protesting Government Contracts 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Showed that proving discrepancies in a government agency’s contracting decisions distorts contractual arrangements with the government, and hurts employee and sales growth  |
+      Used satellite images and computer vision techniques to analyze economic activity around contractor firms 
+
+Consulting:
+    role: Consultant at a quantitative hedge fund, Expert at the European Commission
