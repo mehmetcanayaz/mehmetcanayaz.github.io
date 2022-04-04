@@ -35,3 +35,8 @@ publications:
     link: "https://mehmetcanayaz.github.io/counterfeits"
     authors: Mehmet Canayaz, Umit Gurun
     conference:  This project studies the ramifications of anti-counterfeiting enforcements around the globe. Data is shared. 
+    
+  - title: Country Reputation and Corporate Activity
+    link: "https://mehmetcanayaz.github.io/countryreputation"
+    authors: Mehmet Canayaz, Alper Darendeli
+    conference:  This project studies the ramifications of country reputation on corporate sales. Code is shared. 
